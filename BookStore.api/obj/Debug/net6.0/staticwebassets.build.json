@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AlaCeSzcFovSEZaTmsXRLdqQP3DmA4oFN0Z0PJYI4ao=",
+  "Source": "BookStore.api",
+  "BasePath": "_content/BookStore.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

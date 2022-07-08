@@ -1,0 +1,15 @@
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Repository/obj/Debug/net6.0/BookStore.Repository.csproj.AssemblyReference.cache
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Repository/obj/Debug/net6.0/BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Repository/obj/Debug/net6.0/BookStore.Repository.AssemblyInfoInputs.cache
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Repository/obj/Debug/net6.0/BookStore.Repository.AssemblyInfo.cs
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Repository/obj/Debug/net6.0/BookStore.Repository.csproj.CoreCompileInputs.cache
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Repository/bin/Debug/net6.0/BookStore.Repository.deps.json
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Repository/bin/Debug/net6.0/BookStore.Repository.dll
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Repository/bin/Debug/net6.0/BookStore.Repository.pdb
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Repository/bin/Debug/net6.0/BookStore.Models.dll
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Repository/bin/Debug/net6.0/BookStore.Models.pdb
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Repository/obj/Debug/net6.0/BookStore.Repository.csproj.CopyComplete
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Repository/obj/Debug/net6.0/BookStore.Repository.dll
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Repository/obj/Debug/net6.0/refint/BookStore.Repository.dll
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Repository/obj/Debug/net6.0/BookStore.Repository.pdb
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Repository/obj/Debug/net6.0/ref/BookStore.Repository.dll

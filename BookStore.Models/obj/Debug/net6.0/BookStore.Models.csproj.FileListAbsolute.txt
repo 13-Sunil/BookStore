@@ -1,0 +1,14 @@
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Models/bin/Debug/net6.0/BookStore.Models.deps.json
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Models/bin/Debug/net6.0/BookStore.Models.runtimeconfig.json
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Models/bin/Debug/net6.0/BookStore.Models.dll
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Models/bin/Debug/net6.0/BookStore.Models.pdb
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Models/obj/Debug/net6.0/BookStore.Models.csproj.AssemblyReference.cache
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Models/obj/Debug/net6.0/BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Models/obj/Debug/net6.0/BookStore.Models.AssemblyInfoInputs.cache
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Models/obj/Debug/net6.0/BookStore.Models.AssemblyInfo.cs
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Models/obj/Debug/net6.0/BookStore.Models.csproj.CoreCompileInputs.cache
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Models/obj/Debug/net6.0/BookStore.Models.dll
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Models/obj/Debug/net6.0/refint/BookStore.Models.dll
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Models/obj/Debug/net6.0/BookStore.Models.pdb
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Models/obj/Debug/net6.0/BookStore.Models.genruntimeconfig.cache
+/Users/sunilbhudia/Documents/InterShip-Work/BookStore/BookStore.Models/obj/Debug/net6.0/ref/BookStore.Models.dll
